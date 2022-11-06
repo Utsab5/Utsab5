@@ -1,6 +1,6 @@
 
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/utsab-kundu-3a742421b/" target="_blank"> Utsab Kundu </a></h1>
-<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
+<img width="40%" align="right"   src="https://raw.githubusercontent.com/Utsab5/Utsab5/8d839f1ac9516b7c3191776dbd3112c45e1b83cb/workbench.svg" >
 
 A bit about Myself, I am <b>Utsab Kundu</b> . As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
 
