@@ -56,7 +56,7 @@ I have learned web-development and having knowledge of HTML,CSS,SASS & Javascrip
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Utsab5&theme=dark" alt="Utsab Kundu" /></p>
   </div>
 
- [![Utsab5's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Utsab5&theme=xcode)](https://git.io/SauravMukherjee44)
+ [![Utsab5's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Utsab5&theme=xcode)](https://git.io/Utsab5)
    
    
 
