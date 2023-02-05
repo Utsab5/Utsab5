@@ -36,7 +36,7 @@ Hi, I am Utsab (😉Also called as Bastu) !!
 - [National Finalist -  Schneider](https://gogreen.se.com/en) - Team Passionis declared as one of teams shortlisted for India Finals for Schneider GoGreen Challenge conducted by Schneider Electric in collaboration with AVEVA.
 - [UNICEF Youth Worker](https://bit.ly/2Tt7VLX) - Contributed as a #YoungWarrior spreading awareness about COVID-19 and helping people combat the difficult phase by providing several services and medical helps. -->
   
-### Honors & Awards 🏅
+<!-- ### Honors & Awards 🏅 -->
 
   
  <br>
